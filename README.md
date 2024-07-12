@@ -1,5 +1,11 @@
-## Hi there 👋
-
+![Web 1920 – 1](https://github.com/user-attachments/assets/85484eee-fcdb-411e-8a5f-be6b48ad76c2)
+<p align="center">
+  <b>A software engineer who loves building products.</b><br> <br>
+  <a href="https://www.linkedin.com/in/jigarhirani/" target="_blank">LinkedIn</a> |
+  <a href="" target="_blank">Portfolio</a> |
+   <a href="https://x.com/Jiigarhirani" target="_blank">Twitter</a>
+  <br><br>
+</p>
 <!--
 **jigarhirani/jigarhirani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
